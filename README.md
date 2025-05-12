@@ -29,7 +29,7 @@ To become the go-to tool for character creation in the game development and narr
 ``` 
 ## Usage Guide  
 **Description of the “Character Generator” Interface:**  
-![Character Generator (located at /utils/img)](/utils/img)
+![Character Generator (located at /utils/img)](./utils/img/1.PNG)
 
 At the top you will see two tabs:
 
