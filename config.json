@@ -1,0 +1,45 @@
+{
+  "app_name": "Generador de Personajes Ficticios",
+  "version": "1.0.0",
+  "data_file": "personajes_data.json",
+  "theme": {
+    "name": "dark_postman",
+    "colors": {
+      "background": "#282828",
+      "secondary_bg": "#3c3c3c",
+      "accent": "#ff6c37",
+      "text": "#f8f8f8",
+      "text_secondary": "#cccccc",
+      "button": "#505050",
+      "button_hover": "#656565",
+      "highlight": "#ff6c37",
+      "success": "#4caf50",
+      "info": "#2196f3",
+      "warning": "#ff9800",
+      "error": "#f44336"
+    }
+  },
+  "api": {
+    "grok-2-latest": {
+      "api_base_url": "",
+      "api_key": "",
+      "api_type": "openai",
+      "model": "grok-2-latest",
+      "is_reasoner": false
+    },
+"prompts": {
+  "personaje": "Genera un nombre aleatorio y apropiado para un personaje ficticio de {genero} en un entorno de {estilo}. Devuelve SOLO el nombre completo sin explicaciones, formato JSON, ni texto adicional.",
+  
+  "personaje_detallado": "Crea un personaje ficticio de {genero} para un entorno de {estilo}. Debes devolver SOLAMENTE un objeto JSON válido con exactamente este formato:\n\n{{\n  \"nombre\": \"[nombre completo]\",\n  \"titulo\": \"[título opcional]\",\n  \"edad\": [número],\n  \"profesion\": \"[profesión]\",\n  \"descripcion\": \"[breve descripción física]\",\n  \"motivacion\": \"[motivación principal]\",\n  \"rasgo\": \"[rasgo distintivo]\"\n}}\n\nImportante: NO incluyas texto adicional antes o después del JSON. NO uses comillas simples, usa comillas dobles para las cadenas. El campo edad debe ser un número sin comillas. Asegúrate de que el JSON sea válido y pueda ser procesado con json.loads().",
+  
+  "lista_nombres": "Genera {cantidad} nombres aleatorios completos (nombre y apellido) para personajes ficticios de {genero} en un entorno de {estilo}. Devuelve solo la lista de nombres separados por comas, sin numeración ni explicaciones."
+}
+  },
+  "settings": {
+    "default_mode": "offline",
+    "default_style": "fantasia",
+    "default_gender": "aleatorio",
+    "save_history": true,
+    "history_file": "historico_personajes.json"
+  }
+}

@@ -1,0 +1,318 @@
+{
+  "version": "1.0",
+  "categorias": {
+    "fantasia": {
+      "nombres": {
+        "masculinos": [
+          "Thorin", "Elric", "Aragorn", "Gandalf", "Kvothe", "Raistlin", 
+          "Drizzt", "Boromir", "Galadriel", "Legolas", "Thranduil", "Celeborn",
+          "Bjorn", "Leif", "Ragnar", "Einar", "Ivar", "Rollo", "Harald", "Sigurd",
+          "Cormac", "Fionn", "Bran", "Niall", "Conall", "Eoghan", "Declan", "Kieran",
+          "Achilles", "Perseus", "Orion", "Theseus", "Ajax", "Damon", "Leander", "Castor",
+          "Altair", "Sinbad", "Zahir", "Malik", "Nasir", "Tariq", "Zafar", "Khalid",
+          "Ryu", "Takeshi", "Jin", "Hiroshi", "Kenshi", "Minato", "Zhang", "Hikaru",
+          "Kazimir", "Dmitri", "Mikhail", "Borislav", "Radovan", "Valentin", "Branimir"
+        ],
+        "femeninos": [
+          "Arwen", "Eowyn", "Galadriel", "Luthien", "Tauriel", "Yennefer", 
+          "Ciri", "Elaine", "Moiraine", "Nynaeve", "Falena", "Alia",
+          "Freya", "Astrid", "Sigrid", "Ingrid", "Thyra", "Svana", "Helga", "Dagny",
+          "Rhiannon", "Maeve", "Brigid", "Niamh", "Saoirse", "Fiadh", "Caoimhe", "Cliodhna",
+          "Athena", "Persephone", "Selene", "Calliope", "Thalia", "Daphne", "Cassandra", "Lyra",
+          "Scheherazade", "Layla", "Soraya", "Zuleika", "Amira", "Sahar", "Farah", "Yasmin",
+          "Akemi", "Mizuki", "Lin", "Himari", "Mei", "Sakura", "Yuna", "Yuki",
+          "Anastasia", "Katarina", "Valentina", "Natasha", "Mila", "Zora", "Vesna"
+        ],
+        "neutros": [
+          "Ash", "Rain", "Rune", "Fae", "Wynn", "Thorn", "Sky", "Sage", "Shadow",
+          "Kai", "Mist", "River", "Winter", "Aura", "Ember", "Frost", "Echo", 
+          "Storm", "Lunar", "Star", "Moon", "Willow", "Aspen", "Rowan", "Vale", 
+          "Dawn", "Phoenix", "Terra", "Aether", "Ocean", "Breeze", "Dusk"
+        ]
+      },
+      "apellidos": [
+        "Blackwood", "Ironheart", "Stormrage", "Nightshade", "Winterfall",
+        "Silverstone", "Darkwater", "Flameheart", "Moonshadow", "Stardust",
+        "Dragonsbane", "Lightbringer", "Stormblade", "Shadowwhisper", "Frostgale", "Sunheart",
+        "Emberclaw", "Ravenmist", "Dreamweaver", "Starsong", "Wolfguard", "Moonscar",
+        "Thundershield", "Leafdancer", "Silvertongue", "Dawnchaser", "Nightfall", "Fireheart"
+      ],
+      "titulos": {
+        "masculinos": [
+          "el Valiente", "el Sabio", "el Oscuro", "el Guerrero", "el Hechicero",
+          "el Sanguinario", "el Implacable", "el Inmortal", "el Rojo", "el Justo",
+          "el Tejedor de Hechizos", "el Rompedor de Maldiciones", "el Señor de Dragones", 
+          "el Guardian del Portal", "el Forjador de Destinos", "el Invocador", 
+          "el Vidente", "el Susurrador de Bestias", "el Vigilante Eterno", "el Domador de Tormentas"
+        ],
+        "femeninos": [
+          "la Valiente", "la Sabia", "la Oscura", "la Guerrera", "la Hechicera",
+          "la Sanguinaria", "la Implacable", "la Inmortal", "la Roja", "la Justa",
+          "la Tejedora de Hechizos", "la Rompedora de Maldiciones", "la Señora de Dragones", 
+          "la Guardiana del Portal", "la Forjadora de Destinos", "la Invocadora", 
+          "la Vidente", "la Susurradora de Bestias", "la Vigilante Eterna", "la Domadora de Tormentas"
+        ],
+        "neutros": [
+          "de las Sombras", "del Fuego", "del Hielo", "del Alba", "del Ocaso", 
+          "de la Magia", "de las Estrellas", "del Viento", "de la Luna", "del Sol",
+          "de los Reinos Olvidados", "del Circulo Arcano", "del Bosque Encantado", 
+          "de la Ciudadela Oculta", "de los Senderos Misticos", "del Reino Espectral", 
+          "de la Torre Infinita", "del Velo Dimensional", "de las Runas Antiguas"
+        ]
+      },
+      "rasgos": [
+        "cicatriz en el rostro", "ojos de distinto color", "tatuajes magicos", 
+        "pelo de color inusual", "marcas de nacimiento", "piel palida", 
+        "aura magica", "voz profunda", "orejas puntiagudas", "altura inusual",
+        "manchas luminiscentes en la piel", "cuernos decorativos", "cabello que cambia con el estado de animo",
+        "iris que refleja el cielo", "sombra con vida propia", "marcas tribales animadas", 
+        "alas etéreas", "cristales incrustados en la piel", "trazas de escamas", "dedos alargados"
+      ]
+    },
+    "ciencia_ficcion": {
+      "nombres": {
+        "masculinos": [
+          "Zed", "Nova", "Axel", "Orion", "Titus", "Cyrus", "Phoenix", 
+          "Atlas", "Neo", "Cid", "Pixel", "Jet", "Neon", "Volt",
+          "Neutron", "Quasar", "Helix", "Gamma", "Delta", "Apex", "Helios", "Kronos",
+          "Tera", "Giga", "Mecha", "Sync", "Pulse", "Grid", "Arc", "Laser",
+          "Rocket", "Tesla", "Comet", "Nimbus", "Stratos", "Cortex", "Jolt", "Ram",
+          "Chip", "Spark", "Viper", "Stark", "Omega", "Byte", "Static", "Chrome"
+        ],
+        "femeninos": [
+          "Nova", "Echo", "Lyra", "Nebula", "Sol", "Luna", "Vega", 
+          "Astra", "Phoebe", "Trinity", "Trace", "Quantum", "Byte",
+          "Galax", "Pulsar", "Io", "Callisto", "Andromeda", "Celeste", "Infinity", "Cosmos",
+          "Quark", "Helix", "Aurora", "Synthia", "Orbit", "Pixel", "Beta", "Delta",
+          "Riva", "Mega", "Intel", "Digit", "Tessa", "Vox", "Nano", "Cortana",
+          "Siri", "Alexa", "Iris", "Spark", "Nix", "Vista", "Radi", "Cirrus"
+        ],
+        "neutros": [
+          "Zenith", "Echo", "Binary", "Zero", "Flux", "Cache", "Cipher", 
+          "Core", "Data", "Nexus", "Proxy", "Vector", "Link",
+          "System", "Circuit", "Terminal", "Grid", "Node", "Pixel", "Analog", "Digital",
+          "Mod", "Port", "Interface", "Hub", "OS", "Network", "Protocol", "Daemon",
+          "Crypto", "Syntax", "Runtime", "Logic", "Virtual", "Bit", "Algo", "Archive"
+        ]
+      },
+      "apellidos": [
+        "Vortex", "Neuron", "Quantum", "Cipher", "Matrix", "Photon", "Vector",
+        "Horizon", "Stellar", "Void", "Prism", "Nano", "Core", "Prime",
+        "Lightspeed", "Neutrino", "Starweaver", "Cosmonaut", "Novaforge", "Techshift",
+        "Datascribe", "Mechnetic", "Galactus", "Astrolink", "Synthwire", "Cerebron",
+        "Hyperion", "Radium", "Quantica", "Cybercore", "Stellaris", "Bytecode"
+      ],
+      "titulos": {
+        "masculinos": [
+          "el Ingeniero", "el Piloto", "el Comandante", "el Mercenario", 
+          "el Cibernetico", "el Estratega", "el Navegante", "el Mecanico",
+          "el Arquitecto de IA", "el Explorador Espacial", "el Ingeniero Cuantico", 
+          "el Hacker Neuromante", "el Tecnico de Nanobots", "el Pionero Genetico", 
+          "el Cazador de Recompensas", "el Contrabandista Estelar", "el Cientifico Sombra"
+        ],
+        "femeninos": [
+          "la Ingeniera", "la Piloto", "la Comandante", "la Mercenaria", 
+          "la Cibernetica", "la Estratega", "la Navegante", "la Mecanica",
+          "la Arquitecta de IA", "la Exploradora Espacial", "la Ingeniera Cuantica", 
+          "la Hacker Neuromante", "la Tecnica de Nanobots", "la Pionera Genetica", 
+          "la Cazadora de Recompensas", "la Contrabandista Estelar", "la Cientifica Sombra"
+        ],
+        "neutros": [
+          "de Orion", "de Andromeda", "de la Estacion", "del Sector 7", 
+          "de la Colonia", "de la Resistencia", "del Vacio", "del Enjambre",
+          "del Sistema Estelar", "de la Nave Nodriza", "del Nexo Cuantico", 
+          "de la Corporacion Galáctica", "de la Alianza Interestelar", "del Colectivo", 
+          "de las Colonias Exteriores", "de los Mundos Centrales"
+        ]
+      },
+      "rasgos": [
+        "implantes ciberneticos", "ojos biodigitales", "interfaz neural", 
+        "extremidades roboticas", "nano-tatuajes", "mejoras geneticas", 
+        "habilidades psionicas", "traje exo-esqueletico", "interfaz IA",
+        "piel sintetica camaleonica", "lentes de contacto de realidad aumentada", "sistema respiratorio modificado",
+        "huesos reforzados con aleacion", "puertos de conexion neural", "tatuajes de circuitos luminiscentes",
+        "proyector holografico integrado", "implantes de memoria expandida", "visión mejorada multiespectral"
+      ]
+    },
+    "medieval": {
+      "nombres": {
+        "masculinos": [
+          "William", "Richard", "Henry", "Edward", "George", "Thomas", "John",
+          "Robert", "Hugh", "Walter", "Simon", "Geoffrey", "Roland", "Arthur",
+          "Conrad", "Baldwin", "Godfrey", "Ludwig", "Edmund", "Baldric", "Gareth", "Percival",
+          "Saladin", "Omar", "Hassan", "Ibrahim", "Yusuf", "Rashid", "Farouk", "Jamal",
+          "Takeda", "Minamoto", "Nobunaga", "Hiroshi", "Ming", "Bahadur", "Temujin", "Khan",
+          "Vladimir", "Boris", "Yaroslav", "Stanislav", "Miroslav", "Bogdan", "Bronislav", "Kazimir",
+          "Basil", "Constantine", "Alexios", "Andronikos", "Nikephoros", "Theodoros", "Manuel"
+        ],
+        "femeninos": [
+          "Eleanor", "Elizabeth", "Margaret", "Catherine", "Anne", "Jane",
+          "Alice", "Matilda", "Beatrice", "Joanna", "Blanche", "Cecily", "Emma",
+          "Guinevere", "Isolde", "Hildegard", "Richilda", "Adela", "Bertha", "Edith", "Maud",
+          "Fatima", "Aisha", "Zainab", "Safiya", "Rabia", "Maryam", "Salma", "Karima",
+          "Masako", "Tomoe", "Hojo", "Lian", "Mei-Lin", "Jing", "Yuna", "Kiyoko",
+          "Olga", "Irina", "Anastasia", "Ludmila", "Darya", "Miroslava", "Karina", "Zoya",
+          "Theodora", "Irene", "Zoe", "Eudokia", "Helena", "Anna", "Euphrosyne"
+        ],
+        "neutros": [
+          "Robin", "Morgan", "Avery", "Rowan", "Leslie", "Jordan", "Merle",
+          "Aubrey", "Courtney", "Lesley", "Meredith", "Blair", "Whitney", "Payton", "Quinn",
+          "Finley", "Bailey", "Kerry", "Emery", "Ellis", "Jessie", "Gray", "Reese"
+        ]
+      },
+      "apellidos": [
+        "Smith", "Cooper", "Fletcher", "Wright", "Miller", "Baker", "Taylor",
+        "Fisher", "Cook", "Shepherd", "Carter", "Mason", "Thatcher", "Hunter",
+        "Brewer", "Weaver", "Potter", "Forester", "Hayward", "Fowler", "Sawyer", "Tanner",
+        "Johnson", "Peterson", "Richardson", "Davidson", "Jackson", "Williamson", "Robertson",
+        "Hill", "Bridge", "Lake", "Green", "Brook", "Wood", "Field", "Meadow",
+        "Mendoza", "Sanchez", "Rossi", "Petrov", "Ivanov", "Tanaka", "Khan", "Patel", "Singh"
+      ],
+      "titulos": {
+        "masculinos": [
+          "Lord", "Sir", "Baron", "Duque", "Conde", "Caballero", "Escudero", 
+          "Herrero", "Maestre", "Alquimista", "Rey", "Principe", "Monje",
+          "Obispo", "Mercader", "Juglar", "Artesano", "Erudito", "Administrador", 
+          "Terrateniente", "Granjero", "Explorador", "Embajador", "Comerciante", "Boticario"
+        ],
+        "femeninos": [
+          "Lady", "Baronesa", "Duquesa", "Condesa", "Dama", "Reina", "Princesa",
+          "Hermana", "Abadesa", "Institutriz", "Cortesana", "Sanadora",
+          "Matrona", "Comerciante", "Juglara", "Artesana", "Erudita", "Administradora",
+          "Terrateniente", "Granjera", "Exploradora", "Embajadora", "Boticaria", "Tejedora"
+        ],
+        "neutros": [
+          "de la Corte", "del Reino", "del Bosque", "del Castillo", "de la Abadia",
+          "de las Colinas", "del Valle", "del Rio", "de la Costa", "del Pueblo",
+          "de la Ciudad Amurallada", "de las Tierras Altas", "de las Islas", 
+          "de la Frontera", "de los Paises Bajos", "de las Montañas", 
+          "de la Region Oriental", "de la Marca Occidental", "de Ultramar"
+        ]
+      },
+      "rasgos": [
+        "cicatrices de batalla", "barba poblada", "postura noble", "manos callosas",
+        "ojos penetrantes", "acento provincial", "ropas ornamentadas", "armadura",
+        "marcas de gremio", "piel curtida por el sol", "medallón familiar", "cicatrices de viruela",
+        "dientes de madera", "brazo deformado", "marca de esclavitud liberada", "cabello rapado por votos",
+        "rostro marcado por fuego", "quemaduras de herreria", "tatuajes tribales", "dedos perdidos"
+      ]
+    },
+    "moderno": {
+      "nombres": {
+        "masculinos": [
+          "James", "John", "Robert", "Michael", "William", "David", "Richard",
+          "Joseph", "Thomas", "Charles", "Daniel", "Matthew", "Anthony", "Mark",
+          "Kwame", "Tendai", "Sekou", "Nnamdi", "Kofi", "Chidi", "Oluwaseun", "Mandla",
+          "Mohammed", "Ahmed", "Ali", "Hassan", "Karim", "Jamal", "Samir", "Zaid",
+          "Wei", "Chen", "Hiroto", "Soo-Jin", "Takumi", "Ravi", "Aarav", "Vikram",
+          "Dimitri", "Ivan", "Alexei", "Viktor", "Nikolai", "Sergei", "Yuri", "Luka",
+          "Alejandro", "Miguel", "Carlos", "Eduardo", "Javier", "Rafael", "Santiago", "Lorenzo"
+        ],
+        "femeninos": [
+          "Mary", "Patricia", "Jennifer", "Linda", "Elizabeth", "Barbara", "Susan",
+          "Jessica", "Sarah", "Karen", "Nancy", "Lisa", "Betty", "Margaret",
+          "Amara", "Nia", "Zuri", "Ayana", "Imani", "Makena", "Thema", "Nala",
+          "Amina", "Leila", "Nadia", "Hana", "Rima", "Samira", "Zahra", "Farida",
+          "Jia", "Hana", "Miyuki", "Ji-Woo", "Anjali", "Priya", "Mei-Ling", "Keiko",
+          "Anya", "Tatiana", "Oksana", "Svetlana", "Katya", "Vera", "Natalia", "Elena",
+          "Isabella", "Sofia", "Valentina", "Camila", "Gabriela", "Lucia", "Elena", "Ana"
+        ],
+        "neutros": [
+          "Alex", "Morgan", "Jordan", "Taylor", "Casey", "Riley", "Avery",
+          "Quinn", "Hayden", "Rowan", "Skyler", "Dakota", "Parker", "Reese",
+          "Sasha", "Cameron", "Kai", "Sam", "Jamie", "Alexis", "Hayden", "Blake",
+          "Kendall", "Harley", "Sage", "Peyton", "Kennedy", "Phoenix", "Justice", "Milan",
+          "Ali", "Cruz", "Ellis", "Remy", "Armani", "Jaden", "Ivory", "Jules"
+        ]
+      },
+      "apellidos": [
+        "Smith", "Johnson", "Williams", "Brown", "Jones", "Garcia", "Miller",
+        "Davis", "Rodriguez", "Martinez", "Hernandez", "Lopez", "Gonzalez", "Wilson",
+        "Wong", "Zhang", "Lee", "Chen", "Nguyen", "Kim", "Tanaka", "Yamamoto",
+        "Al-Farsi", "Hassan", "Al-Mansour", "Abdullah", "Rahman", "Farid", "Mirza",
+        "Okafor", "Mensah", "Mandela", "Osei", "Nkosi", "Adeyemi", "Mokoena",
+        "Perez", "Fernandez", "Gonzalez", "Rodriguez", "Diaz", "Torres", "Morales",
+        "Kovacs", "Novak", "Smirnov", "Muller", "Kowalski", "Papadopoulos", "Ivanov"
+      ],
+      "titulos": {
+        "masculinos": [
+          "Dr.", "Sr.", "Prof.", "Lic.", "Ing.", "Mtro.", "Director", "Jefe", 
+          "Oficial", "Capitan", "Agente", "Detective", "Especialista",
+          "CEO", "Presidente", "Ejecutivo", "Gerente", "Supervisor", "Coordinador",
+          "Analista", "Consultor", "Científico", "Investigador", "Desarrollador", "Diseñador"
+        ],
+        "femeninos": [
+          "Dra.", "Sra.", "Profa.", "Lic.", "Ing.", "Mtra.", "Directora", "Jefa",
+          "Oficial", "Capitana", "Agente", "Detective", "Especialista",
+          "CEO", "Presidenta", "Ejecutiva", "Gerente", "Supervisora", "Coordinadora",
+          "Analista", "Consultora", "Científica", "Investigadora", "Desarrolladora", "Diseñadora"
+        ],
+        "neutros": [
+          "del Departamento", "de Sistemas", "de Administracion", "de Marketing",
+          "de Ventas", "de Desarrollo", "de Investigacion", "de Recursos",
+          "de Operaciones", "de Finanzas", "de Tecnologia", "de Innovacion",
+          "de Estrategia", "de Logistica", "de Comunicacion", "de Experiencia",
+          "de Sostenibilidad", "de Ciberseguridad", "de Analitica"
+        ]
+      },
+      "rasgos": [
+        "vestimenta elegante", "tatuajes modernos", "accesorios tecnologicos",
+        "estilo urbano", "acento regional", "cabello teñido", "piercing",
+        "tatuaje de manga completa", "cicatriz quirúrgica", "diastema distintivo", "implante dental",
+        "marcas de vitiligo", "heterocromia", "arrugas prematuras", "manchas de nacimiento",
+        "vello facial distintivo", "cabello con corte asimétrico", "lunares prominentes", "sonrisa torcida"
+      ]
+    }
+  },
+  "profesiones": {
+    "fantasia": [
+      "Mago", "Guerrero", "Clerigo", "Bardo", "Druida", "Paladin", 
+      "Ladron", "Alquimista", "Cazador", "Necromante", "Asesino", "Explorador",
+      "Ilusionista", "Elementalista", "Invocador", "Tejehechizos", "Runista", 
+      "Oraculo", "Guardiabosques", "Arquimago", "Bestimante", "Nigromante", 
+      "Arcanista", "Demonólogo", "Forjamaldiciones", "Vinculador de Espiritus"
+    ],
+    "ciencia_ficcion": [
+      "Piloto", "Ingeniero IA", "Soldado", "Hacker", "Medico", "Cientifico",
+      "Mercenario", "Comerciante", "Explorador", "Diplomatico", "Tecnico", "Biologo",
+      "Terraformador", "Criogenista", "Navegante Espacial", "Escaneador Psiquico", 
+      "Ingeniero de Realidad Virtual", "Contrabandista Dimensional", "Biomodificador", 
+      "Arqueólogo Estelar", "Diplomático Extraterrestre", "Cazador de Anomalias", 
+      "Experto en Inteligencia Artificial", "Tecnico de Portales"
+    ],
+    "medieval": [
+      "Herrero", "Campesino", "Noble", "Mercader", "Soldado", "Sacerdote",
+      "Curandero", "Tabernero", "Tejedor", "Cazador", "Carpintero", "Pescador",
+      "Boticario", "Alfarero", "Molinero", "Trovador", "Curtidor", "Tonelero", 
+      "Apicultor", "Barbero-Cirujano", "Alguacil", "Inquisidor", "Cantero", 
+      "Minero", "Carbonero", "Adivino", "Sericultor", "Cervecero"
+    ],
+    "moderno": [
+      "Medico", "Abogado", "Profesor", "Ingeniero", "Programador", "Artista",
+      "Policia", "Empresario", "Cientifico", "Periodista", "Chef", "Arquitecto",
+      "Desarrollador de Aplicaciones", "Analista de Datos", "Influencer", "Especialista en Marketing Digital", 
+      "Community Manager", "Consultor de Ciberseguridad", "Diseñador UX/UI", "Coach Personal", 
+      "Especialista en Sostenibilidad", "Terapeuta Ocupacional", "Nutricionista", "Coordinador de Eventos"
+    ]
+  },
+  "motivaciones": [
+    "buscar venganza", "encontrar su verdadero origen", "proteger a un ser querido",
+    "recuperar un objeto perdido", "salvar su hogar", "descubrir la verdad",
+    "conseguir poder", "redimirse de errores pasados", "cumplir una profecia",
+    "escapar de su pasado", "probar su valia", "encontrar libertad",
+    "seguir una revelacion espiritual", "escapar de una profecia", "romper una maldicion familiar",
+    "encontrar un remedio para una enfermedad", "reconstruir una civilizacion perdida", 
+    "preservar un conocimiento antiguo", "detener una catastrofe inminente", "vengar un insulto familiar",
+    "recuperar un legado robado", "descubrir la identidad de un traidor", "conquistar un miedo ancestral",
+    "restaurar el equilibrio natural", "unificar pueblos divididos"
+  ],
+  "relaciones": [
+    "hermanos rivales", "mentor y aprendiz", "amigos de la infancia", "companeros renuentes",
+    "amantes separados", "enemigos jurados", "aliados por conveniencia", "familia distanciada",
+    "protector y protegido", "competidores", "sangre de pacto", "deuda de vida",
+    "gemelos separados al nacer", "rivales convertidos en aliados", "cazador y presa", 
+    "maestro y sirviente", "compañeros de batalla", "salvado y salvador", 
+    "carcelero y prisionero", "socios comerciales", "pacto de sangre", "matrimonio acordado",
+    "ultimo sobreviviente de un clan", "vinculo espiritual", "guardianes de un secreto"
+  ]
+}
