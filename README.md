@@ -15,18 +15,18 @@ To become the go-to tool for character creation in the game development and narr
    python3 chargen.py
 
 ## config.json
-
-{
-  "api": {
-    "grok-2-latest": {
-      "api_base_url": "https://api.x.ai/v1",   // Base URL of the API
-      "api_key": "YOUR_SECRET_TOKEN",           // Your access key
-      "api_type": "openai",                     // API type (here: OpenAI)
-      "model": "grok-2-latest",                 // Name of the model to invoke
-      "is_reasoner": false                      // Enable reasoning mode? (true/false)
+```bash
+    {
+    "api": {
+        "grok-2-latest": {
+        "api_base_url": "https://api.x.ai/v1",   // Base URL of the API
+        "api_key": "YOUR_SECRET_TOKEN",           // Your access key
+        "api_type": "openai",                     // API type (here: OpenAI)
+        "model": "grok-2-latest",                 // Name of the model to invoke
+        "is_reasoner": false                      // Enable reasoning mode? (true/false)
+        }
     }
-  }
-}
+    
 ## Usage Guide  
 **Description of the “Character Generator” Interface:**  
 ![Character Generator (located at /utils/img)](/utils/img)
