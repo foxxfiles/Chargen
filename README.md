@@ -26,7 +26,7 @@ To become the go-to tool for character creation in the game development and narr
         "is_reasoner": false                      // Enable reasoning mode? (true/false)
         }
     }
-    
+``` 
 ## Usage Guide  
 **Description of the “Character Generator” Interface:**  
 ![Character Generator (located at /utils/img)](/utils/img)
